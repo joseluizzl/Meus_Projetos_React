@@ -1,0 +1,8 @@
+Projeto contador + nome
+ adicionar onClick no button
+ criar uma função cliqueNoBotao e chamar ela no evento adicionado
+ OBS: Como tratamos eventos no react? vamos no elemento, declaramos o nome do evento e associa a uma determinada função;
+ Criar uma const, com um array de duas posições, estado e função, e chamar a função nativa do react useState() -> retorna um valor que possui um estado e uma função para atualizá-lo
+ Chamar as funções de contador e nome, dentro da função cliqueNoBotao, passando o estado;
+ depois retorna os elementos com o valor atualizado
+ OBS: Navegador interpreta Javascript
